@@ -4,6 +4,7 @@ import os
 import shutil
 import re
 
+# Function to label cropped images
 
 def labelling(name, asset_type, image):
     images_cropped = "output/" + (image.split('/')[-1]).split('.')[0] + "/cropped/"
