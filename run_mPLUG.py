@@ -8,7 +8,7 @@ REPLICATE_API_TOKEN = os.getenv("REPLICATE_API_TOKEN")
 
 def run_mPLUG(image, prompt):
 
-    img = open(image, "rb");
+    img = open(image, "rb")
 
     input = {
     "img": img,
