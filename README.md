@@ -1,11 +1,11 @@
 # Automatic Mask Labeling System
 
+![alt text](images/pipeline.png)
+
 ## Description
 This repository hosts the implementation of the Automatic Mask Labeling System developed by Manuel San Román García for the Capstone Project at IE University. The project leverages advanced technologies including the Segment Anything Model (SAM) and Visual Question Answering (VQA) models combined with Large Language Models (LLMs) to identify and label parts of various assets from different video games automatically.
 
 The system is designed to enhance video game development processes by automating image segmentation and labeling, particularly focusing on the challenges associated with UV mapping images.
-
-![alt text](path/to/image.png)
 
 ## Features
 - **Segment Anything Model (SAM)**: Uses SAM for precise image segmentation.
