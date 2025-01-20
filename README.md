@@ -8,8 +8,8 @@ This repository hosts the implementation of the Automatic Mask Labeling System d
 The system is designed to enhance video game development processes by automating image segmentation and labeling, particularly focusing on the challenges associated with UV mapping images.
 
 ## Paper and Presentation
-- https://drive.google.com/file/d/1JC4-5MVFB3zGC8tumJi0qCNf-wpox8cB/view?usp=sharing
-- https://www.canva.com/design/DAF-7YeRWV4/0CyFNq9ZCojZDMGPwauufw/edit?utm_content=DAF-7YeRWV4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- [Paper](https://drive.google.com/file/d/1JC4-5MVFB3zGC8tumJi0qCNf-wpox8cB/view?usp=sharing)
+- [Presentation](https://www.canva.com/design/DAF-7YeRWV4/0CyFNq9ZCojZDMGPwauufw/edit?utm_content=DAF-7YeRWV4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Features
 - **Segment Anything Model (SAM)**: Uses SAM for precise image segmentation.
